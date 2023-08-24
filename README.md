@@ -15,3 +15,7 @@ Email: anurag.yadav@msds.christuniversity.in
     (4)git commit _m"xyz"
     (5)git push
      changes happen in my github account
+       for edit in this 
+          git add --all
+          git commit -m "update on README.md file"
+          git push
