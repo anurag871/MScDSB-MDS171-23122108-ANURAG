@@ -19,3 +19,14 @@ Email: anurag.yadav@msds.christuniversity.in
           git add --all
           git commit -m "update on README.md file"
           git push
+
+
+
+
+
+  |   sl no      | lab name        | question         |link to the file|
+  |    1.        |   lab 01        |    1.            |                |
+  |    2.        |   lab 02        |    2.            |                |
+  |    3.        |   lab 03        |    3.            |                |
+  |    4.        |   lab 04        |    4.            |                |
+  |    5.        |   lab 05        |    5.            |                |
