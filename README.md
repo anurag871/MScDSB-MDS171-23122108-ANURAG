@@ -7,7 +7,7 @@ Email: anurag.yadav@msds.christuniversity.in
 
 |Serial No.|    DATE     |  File Name       |                     QUESTION                         |      File Link            |             
 |----------|------------ | -----------------|------------------------------------------------------|---------------------------|
-|   1      |  23-08-2023 |      lab01       |  Write a program to enter name and push it to github |https://github.com/anurag871/MScDSB-MDS171-23122108-ANURAG/blob/c9b91698f3b5a4d1d1bc8933f04806e29adac9d4/LAB/lab%2001/lab%2001.ipynb|
+|   1      |  23-08-2023 |      lab01       |  Write a program to print your name n times |https://github.com/anurag871/MScDSB-MDS171-23122108-ANURAG/blob/c9b91698f3b5a4d1d1bc8933f04806e29adac9d4/LAB/lab%2001/lab%2001.ipynb|
 |   2      |  28-08-2023 |      lab02       |  The Name Collector's Quest with the Problems Associated with it |https://github.com/anurag871/MScDSB-MDS171-23122108-ANURAG/blob/c9b91698f3b5a4d1d1bc8933f04806e29adac9d4/LAB/lab%2002/lab%2002.ipynb|
 |   3      |  31-08-2023 |      lab03       |  The Tale of Numbers' Harmony with the Problems Associated with it |https://github.com/anurag871/MScDSB-MDS171-23122108-ANURAG/blob/c9b91698f3b5a4d1d1bc8933f04806e29adac9d4/LAB/lab%2003/lab%2003.ipynb|
 |   4      |  05-09-2023 |      lab04       |  A Taste of Success: The Restaurant Management System |https://github.com/anurag871/MScDSB-MDS171-23122108-ANURAG/tree/c9b91698f3b5a4d1d1bc8933f04806e29adac9d4/LAB/lab%2004|
