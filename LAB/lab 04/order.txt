@@ -1,0 +1,22 @@
+Total Order Till Date: 0
+Total Price from Orders to Date: 400.0
+---------------------------------
+Name: Aman
+Phone Number: 2222
+Food Price: 200.0
+Total qty: 2
+Total Guest: 2
+Date: 22
+Total price For This Order: 400.0
+---------------------------------
+Total Order Till Date: 0
+Total Price from Orders to Date: 1025.0
+---------------------------------
+Name: harish
+Phone Number: 7055070679
+Food Price: 25.0
+Total qty: 25
+Total Guest: 25
+Date: 25/02/2012
+Total price For This Order: 625.0
+---------------------------------

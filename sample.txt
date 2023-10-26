@@ -1,3 +1,0 @@
-name	:	anurag
-phone	:	7055070679
-email	:	anuyadav7800@gmail.com
