@@ -1,4 +1,4 @@
-Name: ANURAG YADAV   
+Name: ANURAG YADAV  
 Register Number: 23122108   
 Class: 1 MSc DS B   
 Email: anurag.yadav@msds.christuniversity.in
